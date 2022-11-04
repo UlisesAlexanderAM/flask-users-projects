@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "flask-users-projects"
+version = "0.1.0"
+description = ""
+authors = ["Ulises Alexander Arguelles Monjaraz <ulises_alexander_am@protonmail.com>"]
+readme = "README.md"
+packages = [{include = "flask_users_projects"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
