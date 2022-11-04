@@ -9,6 +9,7 @@ packages = [{include = "flask_users_projects"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 flask = "^2.2.2"
+python-dotenv = "^0.21.0"
 
 
 [build-system]
