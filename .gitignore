@@ -164,3 +164,6 @@ cython_debug/
 
 # SQLite files
 *.db
+
+# PDF files
+*.pdf
