@@ -10,6 +10,8 @@ packages = [{include = "flask_users_projects"}]
 python = "^3.10"
 flask = "^2.2.2"
 python-dotenv = "^0.21.0"
+flask-sqlalchemy = "^3.0.2"
+flask-assets = "^2.0"
 
 
 [build-system]
